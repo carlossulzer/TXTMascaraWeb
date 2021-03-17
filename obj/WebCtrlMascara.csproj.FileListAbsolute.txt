@@ -1,0 +1,5 @@
+C:\carlos\Programas\WEB\Mascara\WebCtrlMascara\bin\Debug\WebCtrlMascara.dll
+C:\carlos\Programas\WEB\Mascara\WebCtrlMascara\bin\Debug\WebCtrlMascara.pdb
+C:\carlos\Programas\WEB\Mascara\WebCtrlMascara\obj\Debug\ResolveAssemblyReference.cache
+C:\carlos\Programas\WEB\Mascara\WebCtrlMascara\obj\Debug\WebCtrlMascara.dll
+C:\carlos\Programas\WEB\Mascara\WebCtrlMascara\obj\Debug\WebCtrlMascara.pdb
